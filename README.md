@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lindosdev
-I'm currently working on a project using QB64.
+Musician working on ambient, drone and electronic music.
 Contact:  ambientmine@protonmail.com
 
 <!---
